@@ -29,7 +29,7 @@
 - Erstes Projekt öffnen
 @ulend
 
----?code=code/src/HelloWorld&lang=Java
+---?code=code/src/HelloWorld.java&lang=Java
 ## Hello World!
 @[1]
 @[2]

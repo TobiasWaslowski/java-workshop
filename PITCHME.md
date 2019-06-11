@@ -25,6 +25,7 @@
 @title[Setup]
 @ul
 - IntelliJ installieren
+- IntelliJ auf Dark Mode stellen
 - JDK installieren
 - Erstes Projekt öffnen
 @ulend
@@ -35,3 +36,11 @@
 @[2]
 @[3]
 @[1-5]
+
+---?code=code/src/BasicTypes.java&lang=Java
+### Datentypen in Java
+@[2]
+@[3]
+@[4]
+@[5]
+@[6]

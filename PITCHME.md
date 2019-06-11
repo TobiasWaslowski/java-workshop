@@ -1,6 +1,6 @@
 # Java Workshop
 
----?color=006666
+---?color=#006666
 
 @title[Inhalt]
 

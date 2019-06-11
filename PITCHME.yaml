@@ -30,3 +30,5 @@ footnote : "OTTO Bootcamp 2019 Java Workshop "
 # Doc: https://gitpitch.com/docs/settings/published
 #
 published : true
+
+highlight: moon

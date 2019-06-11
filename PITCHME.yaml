@@ -31,4 +31,8 @@ footnote : "OTTO Bootcamp 2019 Java Workshop "
 #
 published : true
 
-highlight: moon
+#
+# Code Highlight setting
+# Doc: https://gitpitch.com/docs/settings/highlight
+#
+highlight: Paraiso Dark

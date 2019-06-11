@@ -29,7 +29,7 @@
 - Erstes Projekt öffnen
 @ulend
 
----?gist=TobiasWaslowski/b5663b7a0c61980f4d12d90955a38200&lang=Java&title=Hello World
+---?code=code/src/HelloWorld&lang=Java
 ## Hello World!
 @[1]
 @[2]

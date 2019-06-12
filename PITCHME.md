@@ -25,7 +25,7 @@
 @title[Setup]
 @ul
 - IntelliJ installieren
-- IntelliJ auf Dark Mode stellen
+- IntelliJ auf Dark Mode stellen (Settings -> Appearance)
 - JDK installieren
 - Erstes Projekt öffnen
 @ulend
@@ -44,3 +44,9 @@
 @[4]
 @[5]
 @[6]
+
+---?code=code/src/Quick_Maffs.java&lang=java
+### Einfache Arithmetik
+
+---?code=code/src/Person.java&lang=java
+### Eure erste Klasse

@@ -37,6 +37,12 @@
 @[3]
 @[1-5]
 
+---?code=code/other_languages/HelloWorld.py&lang=Python
+
+---?code=code/src/Mergesort.java&lang=java
+
+---?code=code/other_languages/racket_mergesort.rkt&lang=racket
+
 ---?code=code/src/BasicTypes.java&lang=Java
 ### Datentypen in Java
 @[2]
@@ -47,6 +53,16 @@
 
 ---?code=code/src/Quick_Maffs.java&lang=java
 ### Einfache Arithmetik
+@[5-6]
 
 ---?code=code/src/Person.java&lang=java
 ### Eure erste Klasse
+@[3]
+@[4]
+@[6-8]
+@[10-14]
+@[15-16]
+@[1-16]
+
+---?code=code/src/PersonGetterSetter.java&lang=java
+### Getter und Setter

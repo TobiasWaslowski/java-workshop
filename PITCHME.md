@@ -40,8 +40,14 @@
 ---?code=code/other_languages/HelloWorld.py&lang=Python
 
 ---?code=code/src/Mergesort.java&lang=java
+### Mergesort in Java: 70 Zeilen
 
----?code=code/other_languages/racket_mergesort.rkt&lang=racket
+---?code=code/other_languages/racket_mergesort.rkt&lang=scheme
+### Mergesort in Racket: 21 Zeilen
+
+---?code=code/other_languages/Mergesort.pl&lang=prolog
+### Mergesort in Prolog: 10 Zeilen
+#### (Dafür vollkommen unleserlich)
 
 ---?code=code/src/BasicTypes.java&lang=Java
 ### Datentypen in Java
@@ -55,14 +61,25 @@
 ### Einfache Arithmetik
 @[5-6]
 
+
+---?code=code/src/IfElse.java&lang=java
+@[6-8]
+@[10-12]
+@[13-15]
+###If/else
+
+---?code=code/src/While.java&lang=java
+@[5-7]
+### Loops I: While
+
+---?code=code/src/For.java&lang=java
+@[4]
+### Loops II: For
+
+---?code=code/src/Prime.java&lang=java
+### Ihr seid dran!
+#### Einfache Algorithmen
+
 ---?code=code/src/Person.java&lang=java
 ### Eure erste Klasse
-@[3]
 @[4]
-@[6-8]
-@[10-14]
-@[15-16]
-@[1-16]
-
----?code=code/src/PersonGetterSetter.java&lang=java
-### Getter und Setter

@@ -98,5 +98,4 @@ public class Mergesort {
       ms.writeToFile(str, file);
     }
   }
-
 }

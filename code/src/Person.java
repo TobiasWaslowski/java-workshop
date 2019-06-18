@@ -1,18 +1,16 @@
 public class Person {
 
-  String name;
-  int age;
-
-  public void greet() {
-    System.out.println("Hallo, mein Name ist " + name);
-  }
-
   public static void main(String[] args) {
     Person person = new Person();
-    person.name = "Tobias";
-    person.greet();
-
-    person.age = 22;
-    System.out.println(person.name  + " ist " + person.age + " Jahre alt.");
   }
 }
+
+/**
+ * TODO
+ * 1. If-else //DONE
+ * 2. While-loop
+ * 3. For-loop
+ * 4. Getter, Setter //DONE
+ * 5. Konstruktor
+ * 6. Inheritance
+ */

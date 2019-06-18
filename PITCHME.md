@@ -85,3 +85,9 @@
 ---?code=code/src/Person.java&lang=java
 ### Eure erste Klasse
 @[4]
+
+---
+## Was heißt jetzt eigentlich "objektorientiert?"
+
+--- 
+# Noch Fragen?

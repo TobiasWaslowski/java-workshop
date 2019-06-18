@@ -16,8 +16,8 @@
 @title[Über Java]
 @ul
 - Populärste Programmiersprache der Welt
-- Objektorientiert, modelliert echte Welt
-- Skalierbar, portabel dank JRE
+- Portabel dank JRE
+- Objektorientiert [dazu später mehr]
 @ulend
 
 ---
@@ -44,6 +44,8 @@
 
 ---?code=code/other_languages/racket_mergesort.rkt&lang=scheme
 ### Mergesort in Racket: 21 Zeilen
+@[1-12]
+@[14-21]
 
 ---?code=code/other_languages/Mergesort.pl&lang=prolog
 ### Mergesort in Prolog: 10 Zeilen
@@ -59,7 +61,7 @@
 
 ---?code=code/src/Quick_Maffs.java&lang=java
 ### Einfache Arithmetik
-@[5-6]
+@[5-7]
 
 
 ---?code=code/src/IfElse.java&lang=java

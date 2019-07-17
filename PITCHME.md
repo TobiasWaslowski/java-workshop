@@ -68,7 +68,7 @@
 @[6-8]
 @[10-12]
 @[13-15]
-###If/else
+### Control Flow: If/else
 
 ---?code=code/src/While.java&lang=java
 @[5-7]

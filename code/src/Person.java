@@ -4,3 +4,10 @@ public class Person {
     Person person = new Person();
   }
 }
+
+/**
+ * TODO Felder erstellen
+ * TODO Getter und Setter
+ * TODO Konstruktor
+ * TODO Children Classes
+ */

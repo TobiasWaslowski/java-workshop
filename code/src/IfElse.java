@@ -11,7 +11,7 @@ public class IfElse {
       System.out.println("Deine Zahl ist kleiner als 10.");
     }
     else {
-      System.out.println("Deine Zahl ist größer als 10.");
+      System.out.println("Deine Zahl ist größer/gleich 10.");
     }
   }
 }

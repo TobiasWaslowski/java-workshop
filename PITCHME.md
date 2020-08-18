@@ -89,4 +89,4 @@
 ---
 # Habt ihr Fragen?
 #### tobias.waslowski@otto.de
-#### paul.kobow@otto.de
+#### paul-vincent.kobow@otto.de

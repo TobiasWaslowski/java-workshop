@@ -38,7 +38,7 @@
 @[1-5]
 
 ---
-## Hello \<Name\>
+## Hello $name
 ### Ihr seid dran!
 
 ---?code=code/src/BasicTypes.java&lang=Java
@@ -85,3 +85,8 @@
 
 ---?code=code/src/Konto.java&lang=java
 ### Konto
+
+---
+# Habt ihr Fragen?
+#### tobias.waslowski@otto.de
+#### paul.kobow@otto.de

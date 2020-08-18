@@ -38,7 +38,7 @@
 @[1-5]
 
 ---
-## Hello <Name>
+## Hello \<Name\>
 ### Ihr seid dran!
 
 ---?code=code/src/BasicTypes.java&lang=Java
@@ -79,7 +79,6 @@
 
 ---?code=code/src/Person.java&lang=java
 ### Eure erste Klasse
-@[5]
 
 ---
 # Mittagspause

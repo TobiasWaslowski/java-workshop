@@ -37,19 +37,9 @@
 @[3]
 @[1-5]
 
----?code=code/other_languages/HelloWorld.py&lang=Python
-
----?code=code/src/Mergesort.java&lang=java
-### Mergesort in Java: 70 Zeilen
-
----?code=code/other_languages/racket_mergesort.rkt&lang=scheme
-### Mergesort in Racket: 21 Zeilen
-@[1-12]
-@[14-21]
-
----?code=code/other_languages/Mergesort.pl&lang=prolog
-### Mergesort in Prolog: 10 Zeilen
-#### (Dafür vollkommen unleserlich)
+---
+## Hello <Name>
+### Ihr seid dran!
 
 ---?code=code/src/BasicTypes.java&lang=Java
 ### Datentypen in Java
@@ -70,6 +60,9 @@
 @[13-15]
 ### Control Flow: If/else
 
+---?code=code/src/Calculator.java&lang=java
+## Euer eigener Taschenrechner
+
 ---?code=code/src/While.java&lang=java
 @[5-7]
 ### Loops I: While
@@ -78,16 +71,18 @@
 @[4]
 ### Loops II: For
 
----?code=code/src/Prime.java&lang=java
-### Ihr seid dran!
-#### Einfache Algorithmen
-
----?code=code/src/Person.java&lang=java
-### Eure erste Klasse
-@[4]
+---
+# Pause
 
 ---
 ## Was heißt jetzt eigentlich "objektorientiert?"
 
---- 
-# Noch Fragen?
+---?code=code/src/Person.java&lang=java
+### Eure erste Klasse
+@[5]
+
+---
+# Mittagspause
+
+---?code=code/src/Konto.java&lang=java
+### Konto
